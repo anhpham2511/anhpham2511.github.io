@@ -3,3 +3,5 @@
 
 ### Sample github page
 
+[Second Page](second-page)
+
